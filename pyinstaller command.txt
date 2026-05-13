@@ -1,1 +1,0 @@
-pyinstaller --noconsole --onefile --icon="C:\Users\jaspe\Envs\transactions\data-transaction.ico" transactions02.py
